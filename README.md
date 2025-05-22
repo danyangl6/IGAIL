@@ -4,4 +4,4 @@ This repository contains a Pytorch implementation corresponding to the follow pa
 
 Wenliang Liu*, Danyang Li*, Erfan Aasi, Daniela Rus, Roberto Tron, Calin Belta. Interpretable Imitation Learning via Generative Adversarial STL Inference and Control, NEUS 2025
 
-The code will come soon.
+**Note:** We are currently organizing and finalizing the code. It will be available here soon. Stay tuned!
